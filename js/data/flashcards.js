@@ -1,7 +1,12 @@
 export const flashcards = [
-	{   "category": "linux",
+	{
+		"category": "linux",
         "front": "show files",
         "back": "ls -la",
+	},
+	
+	{   
+		
 		"id": 19,
 		"category": "linux",
 		"kind": "command",
